@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523587213938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added code for plot">
+      <created>1523595916908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523595916908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -209,7 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added code for predict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code for predict" />
+    <MESSAGE value="Added code for plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for plot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
