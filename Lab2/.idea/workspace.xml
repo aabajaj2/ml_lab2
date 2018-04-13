@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="16f00d90-e5f7-463c-a4ae-05868173ad76" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plot_classifier.py" afterPath="$PROJECT_DIR$/plot_classifier.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="svm_basic.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="svm_basic.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svm_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <state relative-caret-position="1388">
+              <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plot_classifier.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="plot_classifier.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plot_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="254">
+              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,7 +37,7 @@
       <file leaf-file-name="svmold.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svmold.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
+            <state relative-caret-position="7344">
               <caret line="433" column="26" lean-forward="true" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="26" />
               <folding>
                 <element signature="e#98#117#0" expanded="true" />
@@ -55,8 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/svm.py" />
         <option value="$PROJECT_DIR$/svmold.py" />
-        <option value="$PROJECT_DIR$/plot_classifier.py" />
         <option value="$PROJECT_DIR$/svm_basic.py" />
+        <option value="$PROJECT_DIR$/plot_classifier.py" />
       </list>
     </option>
   </component>
@@ -82,8 +83,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +233,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plot_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svmold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7344">
+          <caret line="433" column="26" lean-forward="true" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="26" />
+          <folding>
+            <element signature="e#98#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/svmold.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6936">
@@ -295,7 +322,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/svmold.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
+        <state relative-caret-position="7344">
           <caret line="433" column="26" lean-forward="true" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="26" />
           <folding>
             <element signature="e#98#117#0" expanded="true" />
@@ -303,18 +330,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot_classifier.py">
+    <entry file="file://$PROJECT_DIR$/svm_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="1388">
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/svm_basic.py">
+    <entry file="file://$PROJECT_DIR$/plot_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="166" column="0" lean-forward="true" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
