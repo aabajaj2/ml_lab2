@@ -164,12 +164,3 @@ class svmClassifier:
     def predict(self, x):
         hypothesis = mat(x) * mat(self.weights) + self.b
         return hypothesis
-
-
-if __name__ == '__main__':
-    dataMatrix, labelMat = loadDataSet('data/linearly_separable.csv')
-    clf = svmClassifier(b=None, alphas=None, C=200, toler=0.0001, maxIter=1000)
-    clf = clf.fit(dataMatrix, labelMat)
-    print("Classifier after fit", "b=",  clf.b, "Alpha=", clf.alphas)
-    hyp = clf.predict(dataMatrix)
-    print("Hypothesis=", hyp)
